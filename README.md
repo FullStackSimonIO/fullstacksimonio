@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate FullStack Developer & Cyber Security Engineer from Germany</h3>
-<img align="right" alt="Hacking" width="400" src="https://cdn.dribbble.com/users/116207...](https://gifdb.com/gif/glitching-hacker-hacking-v56g4l1vaykmsno6.html)" />
+<img align="right" alt="Hacking" width="400" src="https://gifdb.com/gif/glitching-hacker-hacking-v56g4l1vaykmsno6.html)](https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.webp" />
 
 <p align="left"> <a href="https://twitter.com/bavarian_z" target="blank"><img src="https://img.shields.io/twitter/follow/bavarian_z?logo=twitter&style=for-the-badge" alt="bavarian_z" /></a> </p>
 
