@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif)(https://fullstacksimon.dev)
+[![MasterHead](https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif)](https://fullstacksimon.dev)
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate FullStack Developer & Cyber Security Engineer from Germany</h3>
 <img align="right" alt="Hacking" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhvMXpucHZwb2Rjamw4aHYwZ3F5enBheGY1azBra2Q2c3UybnZjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3OMuT0xpZIVmU/giphy.gif" />
