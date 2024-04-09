@@ -1,11 +1,11 @@
 [![MasterHead](https://www.itsasap.com/hubfs/Optimized-Hacker_mask.png)](https://fullstacksimon.dev)
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A passionate FullStack Developer & Cyber Security Engineer from Germany</h3>
+<h3 align="center">FullStack Webdeveloper | Cyber Security Student at Technical University of Deggendorf</h3>
 <img align="right" alt="Hacking" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhvMXpucHZwb2Rjamw4aHYwZ3F5enBheGY1azBra2Q2c3UybnZjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3OMuT0xpZIVmU/giphy.gif" />
 
 <p align="left"> <a href="https://twitter.com/bavarian_z" target="blank"><img src="https://img.shields.io/twitter/follow/bavarian_z?logo=twitter&style=for-the-badge" alt="bavarian_z" /></a> </p>
 
-- 🔭 I’m currently working on **Different Projects - Frontend, Backend & mainly tools for Ethical Hacking with Python**
+- 🔭 I’m currently working on **A few Startup Ideas as a Solopreneuer**
 
 - 🌱 I’m currently learning **C++**
 
